@@ -1,0 +1,11 @@
+CA1 Notes for the strips names
+Front Sidenames:
+1 - 5mm from the intact weld toe
+2 - 5mm from the weld toe of the initiation
+5 - 25mm from the intact weld toe
+6 - 25mm from the weld toe of the initiation
+Back sidenames:
+3 - 5mm from the intact weld toe
+4 - 5mm from the weld toe of the initiation
+7 - 25mm from the intact weld toe
+8 - 25 mm from the weld toe of the initiation

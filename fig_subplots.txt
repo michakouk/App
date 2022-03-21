@@ -1,0 +1,6 @@
+- Fig subplots for the LMVs 1-10 with step 1:
+
+fig=subplots.make_subplots(rows=5,cols=4,specs=[[{"t":t_margin},{"t":t_margin,"l":l_margin},{"t":t_margin,"l":l_margin},{"t":t_margin,"rowspan":3}],[{},{"l":l_margin},{"l":l_margin},{}],[{},{"l":l_margin},{"l":l_margin},{}],[{},{"l":l_margin},{"l":l_margin},{}],[{},{"l":l_margin},{"l":l_margin},{}]])
+
+- Fig subplots for the LMVs 1-10 with step 3:
+fig=subplots.make_subplots(rows=4,cols=3,specs=[[{"t":t_margin},{"t":t_margin,"l":l_margin},{"t":t_margin,"l":l_margin,"rowspan":3}],[{},{"l":l_margin},{"l":l_margin}],[{},{"l":l_margin},{"l":l_margin}],[{},{"l":l_margin},{"l":l_margin}]])
